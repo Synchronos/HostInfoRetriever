@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Host Info Retriever", "Host Info Retriever.csproj", "{447B5193-10A8-4E72-87B0-1FEECF47A5D4}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Host Info Retriever Setup", "..\Host Info Retriever Setup\Host Info Retriever Setup.vdproj", "{19C00CC5-A5F9-4FFA-87F9-2D1DD1DA7DEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{447B5193-10A8-4E72-87B0-1FEECF47A5D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{447B5193-10A8-4E72-87B0-1FEECF47A5D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{447B5193-10A8-4E72-87B0-1FEECF47A5D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{447B5193-10A8-4E72-87B0-1FEECF47A5D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19C00CC5-A5F9-4FFA-87F9-2D1DD1DA7DEA}.Debug|Any CPU.ActiveCfg = Debug
+		{19C00CC5-A5F9-4FFA-87F9-2D1DD1DA7DEA}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
