@@ -1,5 +1,6 @@
 using System.Reflection;
 using System.Runtime.CompilerServices;
+using System.Runtime.Versioning;
 
 //
 // General Information about an assembly is controlled through the following 
@@ -11,7 +12,7 @@ using System.Runtime.CompilerServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("James Coe")]
 [assembly: AssemblyProduct("Host Info Retriever")]
-[assembly: AssemblyCopyright("Copyright ©2006,2007 James Coe")]
+[assembly: AssemblyCopyright("Copyright ï¿½2006,2007 James Coe")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]		
 
@@ -57,3 +58,4 @@ using System.Runtime.CompilerServices;
 [assembly: AssemblyKeyFile("")]
 [assembly: AssemblyKeyName("")]
 [assembly: AssemblyFileVersionAttribute("1.0.0.0")]
+[assembly: SupportedOSPlatform("windows")]

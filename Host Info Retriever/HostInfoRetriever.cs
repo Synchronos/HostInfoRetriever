@@ -10,7 +10,6 @@ using System.Net.NetworkInformation;
 using System.Management;
 using System.Reflection;
 using System.Text;
-using System.Runtime.Remoting;
 
 namespace Host_Info_Retriever
 {
